@@ -1,2 +1,5 @@
-# Stationary-Response-via-Transport
-Official code for "Stationary Response Curves from Finite-Time Probability Transport ". Coming soon.
+# Stationary Response Curves from Finite-Time Probability Transport 
+
+Official code for this paper.
+
+🚧 Code coming soon.
